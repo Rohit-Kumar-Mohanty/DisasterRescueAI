@@ -86,3 +86,6 @@ Coordinated multi-robot rescue operations
 Version 1.0 | Working Prototype
 
 Currently features a single autonomous rescue robot, survivor targeting, obstacle navigation, A* path planning, disaster modes, and a command-center interface.
+
+DisasterRescueAI explores how AI-driven autonomous systems could assist in disaster-response operations where intelligent navigation and rapid decision-making are 
+critical.🤖🚨
