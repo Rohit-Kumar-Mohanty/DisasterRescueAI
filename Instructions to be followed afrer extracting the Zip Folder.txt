@@ -1,0 +1,15 @@
+After Extracting The Zip Folder, do the following:-
+
+1. Open VS Code and open the same folder
+
+2. In new terminal, run the commands one by one:-
+    
+     (i)   python -m venv .venv
+     (ii)  .venv\Scripts\activate
+     (iii) pip install -r requirements.txt
+     (iv) python app.py
+
+3. Open your web browser and go to http://127.0.0.1:5000
+
+4. The DisasterRescueAI Command Center will open in the browser.
+  
